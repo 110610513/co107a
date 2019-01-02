@@ -39,4 +39,4 @@ CHIP Memory {
 // 0100 000 Screen start
 // 0101 FFF Screen end
 // 0110 000 Keyboard
-}
+
